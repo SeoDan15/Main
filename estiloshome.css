@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+}
+.contenedor{
+    width: 95%;
+    margin: 5px auto;
+}
+header{
+    height: px;
+    width: auto;
+}
+header img{
+    width: 100%;
+    height: 20%;
+    float:left ;
+}
+.utn{
+    clear: both;
+    height: 5%;
+    margin: 2% auto;
+    padding: 2%;
+}
+section p{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: #fefefe;
+    line-height: 5%;
+    margin: 2% auto;
+}
+.nombre{
+    height: 5%;
+    width: 60%;
+    float: left;
+    line-height: 5%;
+}
+.grupo{
+    height: 5%;
+    width: 40%;
+    float: left;
+    line-height: 5%;
+}
+.nombre p, .grupo p{
+    padding: 1%;
+    margin: 2% auto;
+    text-align: center;
+    color: #fefefe;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold ;
+}
+.tareas{
+    clear: both;
+    height: 10%;
+    width: 50%;
+    text-align: justify;
+    padding: 2%;
+    
+}
+.tareas ul li a{
+    text-decoration: none;
+    color: #8f424e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.tareas h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: #8f424e;
+    
+}
